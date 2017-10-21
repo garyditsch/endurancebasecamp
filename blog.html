@@ -1,0 +1,24 @@
+---
+layout: default
+title: Blog
+permalink: /blog/
+---
+
+{% for post in site.posts %}
+    {% if post.categories contains 'blog' %}
+          <div class="post-preview">
+            <a href="{{post.url}}">
+              <h4 class="post-title">
+                {{ post.title }}
+            </h4>
+            </a>
+            <p class="post-meta"> {{ post.date | date: "%b %d, %Y" }}</p>
+          </div>
+          <hr>
+    {% endif %}
+{% endfor %}
+
+<!-- Pager -->
+<!-- <div class="clearfix">
+<a class="btn btn-secondary float-right" href="#">Older Posts &rarr;</a>
+</div> -->
