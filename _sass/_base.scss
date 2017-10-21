@@ -70,7 +70,7 @@ aside {
 // Navigation
 
 .navbar-default {
-    background-color: rgba(black, .5);
+    background-color: rgba($theme-dark, 1.0);
     border-color: rgba($theme-dark, .5);
     @include sans-serif-font;
     @include transition-all;
@@ -84,6 +84,9 @@ aside {
             color: darken($theme-primary, 10%);
         }
     }
+    .navbar-toggle .icon-bar{
+        background-color: $theme-primary;
+    }
     .nav {
         > li {
             > a,
@@ -91,7 +94,7 @@ aside {
                 text-transform: uppercase;
                 font-weight: 700;
                 font-size: 13px;
-                color: $theme-dark;
+                color: $theme-primary;
                 &:hover {
                     color: $theme-primary;
                 }
@@ -109,7 +112,7 @@ aside {
         }
     }
     @media (min-width: 768px) {
-        background-color: rgba(black, .5);
+        background-color: rgba($theme-dark, 1.0);
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
             color: rgba(white, .7);
@@ -155,7 +158,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/gary-running.jpg');
     text-align: center;
     color: white;
     .header-content {
@@ -172,6 +175,10 @@ header {
             }
             hr {
                 margin: 30px auto;
+            }
+            b {
+                text-transform: uppercase;
+                color: rgba(black, 1.0);
             }
             p {
                 font-weight: 300;
@@ -263,7 +270,7 @@ header {
                 font-size: 14px;
             }
             .project-name {
-                font-size: 18px;
+                font-size: 14px;
             }
         }
     }
@@ -279,7 +286,7 @@ header {
                     font-size: 16px;
                 }
                 .project-name {
-                    font-size: 22px;
+                    font-size: 14px;
                 }
             }
         }
