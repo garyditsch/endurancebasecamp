@@ -12,13 +12,13 @@ There are different types of strength training programs that a runner could star
 
 **What amount of repetitions / sets achieve what goal?**
 
-A common belief that goes along with strength training is that to develop strength, you need to build larger, almost overly, developed muscles. This is not the case. Even more important to know is that the amount of reps and sets you do will determine what goal you are working towards.
+A common belief that goes along with strength training is that to develop strength, you need to build oversized or large muscles. Those bigger and heavier muscles are not all that beneficial for running. But to develop strength that is useful for the runner, bigger muscles is not the goal.
 
-Here are some basic guidelines to follow when you want to develop:
+Here are some general strength training guidelines around sets, reps and the suggested outcome:
 
-Strength: 6 or less reps, 2 to 6 sets  
-Hypertrophy (building muscle size): 6 to 12 reps, 3 to 6 sets  
-Muscular Endurance: 12 or more reps, 2 to 3 sets
+- Strength: 6 or less reps, 2 to 6 sets
+- Hypertrophy (building muscle size): 6 to 12 reps, 3 to 6 sets
+- Muscular Endurance: 12 or more reps, 2 to 3 sets
 
 **What amount of repetitions / sets are valuable for the runner?**
 
@@ -51,7 +51,6 @@ The one topic not addressed here would be the inclusion of strength training for
 Jung, A.P. The Impact of Resistance Training on Distance Running Performance. Sports Med 2003;33(7):539-552.
 
 Baechle, T.R., Earle, R.W. & Wathen, D. Resistance Training. In T.R. Baechle & R.W. Earle (Eds.), Essentials of strength training and conditioning (pp. 393-425). Champaign, IL: Human Kinetics.
-
---
-original post: 6/9/2006
-last update: 2/23/2018
+<hr>
+- original post: 6/9/2006
+- last update: 2/23/2018
