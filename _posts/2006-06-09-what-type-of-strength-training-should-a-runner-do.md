@@ -1,5 +1,6 @@
 ---
-title: What type of strength training should a runner do?
+title: Strength training for runners?
+subtitle: Improving your run performance with strength training.
 date: 2006-06-09T16:50:00+00:00
 author: Gary Ditsch
 layout: post
@@ -10,7 +11,7 @@ There are different types of strength training programs that a runner could star
 1. What amount of repetitions / sets achieve what goal?  
 2. What amount of repetitions / sets are valuable for the runner?
 
-**What amount of repetitions / sets achieve what goal?**
+<h3>What amount of repetitions / sets achieve what goal?</h3>
 
 A common belief that goes along with strength training is that to develop strength, you need to build oversized or large muscles. Those bigger and heavier muscles are not all that beneficial for running. But to develop strength that is useful for the runner, bigger muscles is not the goal.
 
@@ -20,7 +21,7 @@ Here are some general strength training guidelines around sets, reps and the sug
 - Hypertrophy (building muscle size): 6 to 12 reps, 3 to 6 sets
 - Muscular Endurance: 12 or more reps, 2 to 3 sets
 
-**What amount of repetitions / sets are valuable for the runner?**
+<h3>What amount of repetitions / sets are valuable for the runner?</h3>
 
 If you read my post, **Improve your running performance by including strength training**, then you will already know that the article I reviewed highlighted the benefits of heavy resistance training and explosive training. Another review that I found, **The Impact of Resistance Training on Distance Running Performance** also came to similar conclusions. Here are the highlights:
 
@@ -32,7 +33,7 @@ If you read my post, **Improve your running performance by including strength tr
 
 4. Explosive resistance training (plyometrics) improved running economy and running performance (5k) when added to a distance running program.
 
-**What does this mean? For the experienced runner.**
+<h3>What does this mean? For the experienced runner.</h3>
 
 This review provides some evidence that experienced and trained runners could benefit by adding in a period of strength training that includes heavy resistance sets and explosive exercises.
 
@@ -40,7 +41,7 @@ How long of a period? My suggestion would be to include 4 to 12 weeks depending 
 
 If you are an experienced runner but new to strength training, I would also suggest going through a period of circuit training (see above) before you take on a heavy resistance program. Even if you will not see any running performance benefits from the circuit training, you will be less likely to injure yourself by jumping straight into a highly intense strength training program.
 
-**What does this mean? For the novice runner.**
+<h3>What does this mean? For the novice runner.</h3>
 
 It means you would be better off running more often, more minutes and with some added intensity. As a new runner there are a lot of gains waiting for you through running. So if you are still improving by running, run a little more and rest.
 
