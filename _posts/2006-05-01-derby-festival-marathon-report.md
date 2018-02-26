@@ -1,5 +1,5 @@
 ---
-title: Derby Festival Marathon Report.
+title: Derby Festival Marathon Report, 2006.
 date: 2006-05-01T18:20:00+00:00
 author: Gary Ditsch
 layout: post
