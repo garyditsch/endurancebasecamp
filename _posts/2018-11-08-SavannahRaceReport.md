@@ -6,7 +6,7 @@ layout: post
 permalink: /savannah-marathon-race-report/
 ---
 
-## My health and mindset:
+### My health and mindset:
 
 There was a lot of anxiety as I went into the weekend. This was the effect of some hip pain that developed after my last big workout. I ended up taking the entire week off prior to the race for two reasons: 
 
@@ -17,7 +17,7 @@ The time off definitely increased my anxiousness, as I hadn't taken this much ti
 
 With that as context, I made the trip to Savannah and was trying to emotionally and mentally commit to 'going for it' on race day. 
 
-## Having support: 
+### Having support: 
 
 I have completed many marathons in the past 19 years, with many of those races being done as a solo traveler. The races are sometimes enjoyable, yet often they are more an exercise of progress towards my goal of doing all 50 states and Washington DC. The week leading up to the race, as I was dealing with the anxiety of my hip and desire to perform my best, I was presented with a question. 
 
@@ -25,7 +25,7 @@ I have completed many marathons in the past 19 years, with many of those races b
 
 This provided the other storyline for this race. I had someone offer to travel to Savannah for the day to cheer for me and provide some post race support. It was a pleasant and unexpected surprise, which helped as I prepared my mind. 
 
-## Let's race: 
+### Let's race: 
 
 I rode a bike the 2 miles from the AirBnB to the start line, which was an excellent way to manage the morning. After parking the bike and dropping off my drop bag, I went to warm up. The warm ups went surprising well, especially the 2 mile jog. "That felt great the my mental chatter." 
 
@@ -33,7 +33,7 @@ This was the first race that I have ever used headphones and music, so at the st
 
 My goals going into the race were to run 2:55 to 2:58. I often pace myself off my 5k splits, which I set at 21:00. I also committed during the training that there would not be any 'plan b' options. That meant running a PR (which I knew was 3:04 but did not know how many seconds, which is important to this story) or qualifying for Boston were not going to be viewed as successful outcomes.
 
-## Ready, Set, Go: 
+### Ready, Set, Go: 
 
 The race started with a steady push towards the start line, however I was in the first corral so I did not get caught up in too much traffic. As I ran through the first few blocks, I was amazed at how great I felt. "We're going to do this" was something I thought out loud. I ran by the first mile marker and instinctively looked at my watch and saw "7:06". "Slow, but that felt really easy. It should feel easy at this stage, but you could put a little more effort out."
 
@@ -69,7 +69,7 @@ I never looked at a mile split (other than mile one), so I didn't know exactly h
 
 Everything was pretty controlled and normal, even as I ran through 30k. In fact, when I saw my split at 30k I realized I'd put together a really good 3rd 10k. The miles did start to feel a little longer, but nothing was a struggle at this point. 
 
-## The struggle started around mile 22. 
+### The struggle started around mile 22. 
 
 It was about here that I felt like I was putting in a lot of effort to not make much progress. It was also during this mile that 2 guys passed me. They were the only 2 that passed me after the half marathon runners split off (around mile 11), but they also passed me pretty convincingly. 
 
@@ -85,7 +85,7 @@ I spent some time in there, then gradually made my way to my feet and went to ge
 
 Everyone who has run a marathon understands that the finish line is the end of the race, but it takes a few hours to get your non running mind back. 
 
-## Post Race Review: 
+### Post Race Review: 
 
 I will share the data of the race below. You will see that the data reflects the story from above. It highlights a race that was run based on emotion and only possible due to my high level of fitness. It was not a well executed and strategic race!
 
@@ -102,22 +102,24 @@ I personally believe that great races are often run with two observations:
 
 I am collecting data from other runners to try and do some analysis on this, so if you have 1k splits of a marathon PR over the last couple years, I would love to get that data.
 
-## Final Analysis: 
+### Final Analysis: 
 
 I shared this in my immediate post on Instagram after the race. It is races like this that truely allow me to appreciate everything running has given me. The most important being my health, friendships and relationships it has provided. This race ended up being a personal best time with an official time of 4:03:31 (8 seconds faster!). It also qualifies me for the Boston marathon. However those are just consolation prizes to being able to share this journey with everyone that has been willing to participate in this journey with me. 
 
 My next marathon is already scheduled for Asheville, North Carolina in March 2019. Let go on another journey together!
 
-## The 5k and 10k split data:
+### The 5k and 10k split data:
 
 5k splits: 21:52, 21:26, 21:22, 21:45, 20:52, 20:37, 21:40, 23:22
+
 10k splits: 43:18, 43:07, 41:29, 45:02
 
-## Rank sum data. 
+### Rank sum data. 
 
 I rank each 1k split, I then take those ranks and sum them up. It's another metric I used to evaluate variance of the race. It's pretty clear here!
 
 5k rank sum: 131, 90, 85, 124, 42, 26, 114, 190
+
 10k rank sum: 221, 209, 68, 304
 
 You can view the spreadsheet here: [Savannah Marathon Pacing Data](https://bit.ly/savannah-marathon-data)
