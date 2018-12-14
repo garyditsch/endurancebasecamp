@@ -13,13 +13,13 @@ When you begin a running program, there are a lot of things to consider. There a
 > This lack of success is a result of beginners trying to do "everything" they believe they have to in order to be a runner. 
 
 They hear that they must: 
-*have good shoes
-*stretch well
-*include strength training
-*get more sleep
-*eat well each day
-*have the right sports supplements
-*have the right coach. 
+* have good shoes
+* stretch well
+* include strength training
+* get more sleep
+* eat well each day
+* have the right sports supplements
+* have the right coach. 
 
 It's overwhelming, but it does not have to be. That is why I want to share my "First Principle of Running". 
 
