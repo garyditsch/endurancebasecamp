@@ -30,11 +30,11 @@ Developing a base doesn't mean we only include slow and low effort runs. However
 
 3. How do we set this 'max'?  There are ways to test and set these markers, however I've found as a runner and coach, it's best to keep it simple. I often use three methods, depending on the runner's mindset and approach: 
 
-...* Max HR x 75%, it's a ballpark estimate that works for the majority of people. 
+... * Max HR x 75%, it's a ballpark estimate that works for the majority of people. 
 
-...* Maffetone method:  180 - age (he uses some other variables too, but this gets us started)
+... * Maffetone method:  180 - age (he uses some other variables too, but this gets us started)
 
-...* I set a HR that is lower than a runner's current average HR, knowing they are unlikely to use method A or B because it will require more walking than running until they've developed a better aerobic base. 
+... * I set a HR that is lower than a runner's current average HR, knowing they are unlikely to use method A or B because it will require more walking than running until they've developed a better aerobic base. 
 
 Many of you will see these type of workouts in your programs. At this point, everyone on the team can benefit from a deeper aerobic base. You'll also see some things like strides, fartleks, steady state and even some shorter tempo efforts. 
 
