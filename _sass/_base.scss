@@ -158,7 +158,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/gary-running.jpg');
+    background-image: url('../img/MidsummerNights5k-2017-HighRes.jpg');
     text-align: center;
     color: white;
     .header-content {
@@ -222,9 +222,21 @@ header {
     margin-top: 100px;
 }
 
-.post-heading{
+.post-heading {
     margin-bottom: 20px;
+    border-bottom: 3px $theme-primary solid;
+    padding-bottom: 10px;
 }
+
+article {
+    font-family: Cambria, Georgia, Times, “Times New Roman”, serif;
+    h3 {
+        margin: 40px 0px 20px 0px;
+        font-weight: 700;
+    }
+}
+
+
 
 .service-box {
     max-width: 400px;
